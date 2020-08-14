@@ -1,3 +1,5 @@
+<p style="text-align: center"><img src="pantsss.png" width="100px"></p>
+
 # Docs
 GitHub location for any on-platform documentation or GitHub action development
 
