@@ -1,4 +1,4 @@
-<h1 align='center'><img src="pantsss.png" width="130px"/><br/> Media Production</p>
+<h1 align='center'><img src="pantsss.png" width="130px"/><br/> Media Production</h1>
 
 - [About](#about)
 - [Plans](#plans)
