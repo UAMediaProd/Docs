@@ -1,6 +1,11 @@
 <h1 align='center'><img src="pantsss.png" width="130px"/><br/> Media Production</p>
 
-## Docs
+- [About](#about)
+- [Plans](#plans)
+
+
+
+## About
 GitHub location for any on-platform documentation or GitHub action development
 
 ### Plans
