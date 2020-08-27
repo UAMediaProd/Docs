@@ -21,4 +21,4 @@ We still plan on supporting our GitLab instance for the time being until we migr
 Future plans are to investigate the ownership of our current `BATS` and `WILD` servers and to include a Node.js installation there and only require our server for server-only tasks so we're Serverless-ish at the bare minimum.
 
 ## Why the pants?
-Why not?
+Tan pants
