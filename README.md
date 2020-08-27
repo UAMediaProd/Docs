@@ -10,7 +10,7 @@ The Media Production team at The University of Adelaide is located within the On
 
 ## Dev stack
 Right now, our development tech stack roughly looks like this:
-
+<br/>
 <p align='center'><img src="devstack.svg"/><br/></p>
 
 GitHub will be the heart of our development toolset for new creations from hereon out. The main benefit this gives us is being able to use [GitHub Pages](https://pages.github.com/) in our DevOps for hosting rather than our previous closed-source approach to our own servers for front-end content. Using GitHub allows us to integrate with other services like [Glitch](https://glitch.com/) for Node.js server-side code for applications inside the Media team, or our future **Media Hub** project.
